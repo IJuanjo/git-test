@@ -5,7 +5,7 @@ function featureA() {
 }
 
 function otherFunction() {
-    return "other function"
+    return "other function something"
 }
 function crab() {
     return "is crab 🦀"
