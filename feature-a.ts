@@ -8,7 +8,7 @@ function otherFunction() {
     return "other function something...sadasd"
 }
 function crab() {
-    return "is crab 🦀 cuackkk"
+    return "is crab 🦀 cuackkk hi!"
 }
 
 
