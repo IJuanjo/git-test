@@ -1,3 +1,3 @@
-function myFunction(message: string) {
-    return message;
+function myFunction(message: string, messageTwo: string) {
+    return `${message} ${messageTwo}`;
 }
