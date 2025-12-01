@@ -1,3 +1,3 @@
-export function myFunction(message: string, messageTwo: string) {
-    return `${message} ${messageTwo}`;
+export function myFunction(message: string, messageTwo: string,isStatus:boolean) {
+    return `${message} ${messageTwo} 🦀`;
 }
