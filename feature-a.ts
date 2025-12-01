@@ -10,3 +10,8 @@ function otherFunction() {
 function crab() {
     return "is crab 🦀 cuackkk"
 }
+
+
+function juan() {
+    return "juan"
+}
